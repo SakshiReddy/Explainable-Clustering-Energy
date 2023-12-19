@@ -1,9 +1,9 @@
 # Explainable-Clustering-Energy
 This repository contains Python code and data files related to the BII project on explaining clustered energy data.
 
-`cluster\_descriptor\_NLIP.py`: Python code for the Minimum Descriptors Problem expressed as a Nonlinear Integer Program.
+`cluster_descriptor_NLIP.py`: Python code for the Minimum Descriptors Problem expressed as a Nonlinear Integer Program.
 
-`cluster\_descriptor\_ILP.py`: Python code for the Minimum Descriptors Problem expressed as a Linear Integer Program.
+`cluster_descriptor_ILP.py`: Python code for the Minimum Descriptors Problem expressed as a Linear Integer Program.
 
 **Test 1** :
 
@@ -17,9 +17,9 @@ Dates Chosen:
 
 Associated Files:
 
-`tag\_data\_analysis.ipynb`: Python code for preliminary analysis of data from RECS and SPEW for tag selection.
+`tag_data_analysis.ipynb`: Python code for preliminary analysis of data from RECS and SPEW for tag selection.
 
-`initial\_test\_clustering.ipynb`: Python code for normalization, clustering, and tagging Charlottesville and Albermarle data.
+`initial_test_clustering.ipynb`: Python code for normalization, clustering, and tagging Charlottesville and Albermarle data.
 
 **Test 2** :
 
@@ -56,14 +56,14 @@ Dates Chosen:
 
 Associated Files:
 
-`energy\_analysis.ipynb`: Python code for sampling, normalization, clustering, and tagging energy data + cluster membership and energy curve analysis
+`energy_analysis.ipynb`: Python code for sampling, normalization, clustering, and tagging energy data + cluster membership and energy curve analysis
 
-`temperature\_analysis.ipynb`: Python code for highest, lowest, and average temperature per month analysis for each county
+`temperature_analysis.ipynb`: Python code for highest, lowest, and average temperature per month analysis for each county
 
 **tagged\_data\_test\_2**
 
-`tagged\_data\_test\_2\_c3.txt`: 3 clusters
+`tagged_data_test_2_c3.txt`: 3 clusters
 
-`tagged\_data\_test\_2\_c5.txt`: 5 clusters
+`tagged_data_test_2_c5.txt`: 5 clusters
 
-`tagged\_data\_test\_2\_c10.txt`: 10 clusters
+`tagged_data_test_2_c10.txt`: 10 clusters
