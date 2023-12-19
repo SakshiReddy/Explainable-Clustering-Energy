@@ -3,8 +3,6 @@ This repository contains Python code and data files related to the BII project o
 
 `cluster_descriptor_NLIP.py`: Python code for the Minimum Descriptors Problem expressed as a Nonlinear Integer Program.
 
-`cluster_descriptor_ILP.py`: Python code for the Minimum Descriptors Problem expressed as a Linear Integer Program.
-
 **Test 1** :
 
 Charlottesville and Albermarle County data
@@ -59,11 +57,3 @@ Associated Files:
 `energy_analysis.ipynb`: Python code for sampling, normalization, clustering, and tagging energy data + cluster membership and energy curve analysis
 
 `temperature_analysis.ipynb`: Python code for highest, lowest, and average temperature per month analysis for each county
-
-**tagged\_data\_test\_2**
-
-`tagged_data_test_2_c3.txt`: 3 clusters
-
-`tagged_data_test_2_c5.txt`: 5 clusters
-
-`tagged_data_test_2_c10.txt`: 10 clusters
